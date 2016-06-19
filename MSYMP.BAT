@@ -1,0 +1,2 @@
+cd c:\symp
+ACCESS
